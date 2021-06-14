@@ -18,8 +18,14 @@ public class TestSele {
 
   @Test
   public void test3() {
-	  assertEquals(2, 2);
+	  assertEquals(2, 3);
 	  System.out.println("test3");
+  }
+  
+  @Test
+  public void test4() {
+	  assertEquals(2, 2);
+	  System.out.println("test4");
   }
 
 }
