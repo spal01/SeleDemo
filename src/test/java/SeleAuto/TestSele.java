@@ -27,5 +27,11 @@ public class TestSele {
 	  assertEquals(2, 2);
 	  System.out.println("test4");
   }
+  
+  @Test
+  public void test5() {
+	  assertEquals(2, 2);
+	  System.out.println("test5");
+  }
 
 }
